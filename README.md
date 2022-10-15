@@ -1,7 +1,7 @@
 ### <div align="center">I'm Bhaviklotia, a full-time full-stack developer</div>  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me anything about related to MERN stack and related technologies  
   
 
 <br/>  
