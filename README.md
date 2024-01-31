@@ -1,4 +1,4 @@
-### <div align="center">I'm Bhaviklotia, a full-time full-stack developer</div>  
+### <div align="center">I'm Bhaviklotia, A Full-Stack Developer</div>  
   
 
 - ❓ Ask me anything about related to MERN stack and related technologies  
